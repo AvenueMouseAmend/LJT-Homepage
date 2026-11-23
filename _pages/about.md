@@ -36,7 +36,7 @@ First-year PhD candidate at the **HKUST NLP Group**, Hong Kong University of Sci
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
   - Advisor: Prof. Yu Cheng
 
-## Research Interests and Skills
+## Skills
 
 - Natural Language Processing
 - Machine Learning
